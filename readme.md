@@ -20,6 +20,8 @@ The current implementation offers the following features:
 
 - **AC Mode Control:** The controller enables you to change the AC mode, giving you control over cooling, heating, or other operational modes.
 
+- **Special Capabilities:** Enables control over advanced features of your unit such as horizontal/vertical blade swings, sleep mode, quiet mode, fast mode, long reach mode, wind-free mode, etc.
+
 
 ## Hardware installation
 
